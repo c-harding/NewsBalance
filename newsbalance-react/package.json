@@ -10,7 +10,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-fontawesome": "^1.6.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "request-promise-native": "^1.0.7",
     "typescript": "^3.5.3"
   },
@@ -26,6 +26,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "webpack": "^4.35.3"
+    "webpack": "^5.75.0"
   }
 }
